@@ -1,6 +1,8 @@
 ### 🇵🇱 • owtysm (ow) • Any pronouns
 
 ## about me
+**personal website: https://0.0**
+
 I have had access to technology from a young age, I picked up on `coding in 2018`.
 
 My interests range from `UI design`, `digital art`, or `GFX` to `fast-paced music` and `video games`.  
