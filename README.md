@@ -1,7 +1,7 @@
 ### 🇵🇱 • owtysm (ow) • Any pronouns
 
 ## about me
-**personal website: https://0.0**
+**🌐 personal website: https://0.0**
 
 I have had access to technology from a young age, I picked up on `coding in 2018`.
 
