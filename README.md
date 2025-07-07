@@ -14,7 +14,7 @@ All projects maintaned by me are [![Unlicense](https://img.shields.io/badge/-Unl
 ## contact
 💜 You're welcome to contact me. 
 
-I am not talkative, but I `respect diversity`, I won't attack you because of your interests.
+I am not talkative, but I respect diversity, I won't attack you because of your interests.
 
 - I use ![Discord logo](https://i.imgur.com/BvvyqHK.png)**Discord**, and my handle is `owtysm`
 
