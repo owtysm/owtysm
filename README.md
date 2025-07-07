@@ -1,7 +1,7 @@
 ### 🇵🇱 • owtysm (ow) • Any pronouns
 
 ## about me
-**🌐 personal website: https://0.0**
+**🌐 personal website: NOT DONE YET**
 
 *This is a GitHub readme, so I will try to be concise:*
 
