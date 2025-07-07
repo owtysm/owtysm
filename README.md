@@ -3,8 +3,6 @@
 ## about me
 **🌐 personal website: NOT DONE YET**
 
-*This is a GitHub readme, so I will try to be concise:*
-
 I have had access to technology from a young age, I picked up on `coding in 2018`.
 
 My interests range from `UI design`, `digital art`, or `GFX` to `fast-paced music` and `video games`.  
