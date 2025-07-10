@@ -10,7 +10,7 @@ My interests range from `UI design`, `digital art`, or `GFX` to `fast-paced musi
 All projects maintaned by me are [![Unlicense](https://img.shields.io/badge/-Unlicense-6a00ff)](https://unlicense.org/), my forks use their original licenses.
 
 ## contact
-**💜 You're welcome to contact me.** 
+**📫 You're welcome to contact me.** 
 
 I am not talkative, but I respect diversity, I won't attack you because of your interests.
 
